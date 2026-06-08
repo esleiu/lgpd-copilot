@@ -1,0 +1,17 @@
+[project]
+name = "portfolio-lgpd-rag"
+version = "0.1.0"
+description = "Assistente RAG para perguntas de compliance LGPD com tool calling, cache e model routing."
+requires-python = ">=3.10"
+dependencies = [
+  "openai>=1.84.0",
+  "python-dotenv>=1.0.1",
+  "streamlit>=1.45.0",
+  "scikit-learn>=1.5.0",
+  "numpy>=1.26.0",
+  "pytest>=8.2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

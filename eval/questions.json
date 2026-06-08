@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Posso armazenar CPF para emitir nota fiscal e prevenir fraude?",
+    "expected_context": ["Art. 7", "necessidade", "finalidade"]
+  },
+  {
+    "question": "Quais direitos o usuario tem se pedir exclusao dos dados?",
+    "expected_context": ["Art. 18", "eliminacao", "acesso"]
+  },
+  {
+    "question": "Que medidas devo aplicar se meu app guarda dados de saude?",
+    "expected_context": ["Art. 11", "Art. 46", "seguranca"]
+  },
+  {
+    "question": "Quando posso manter dados apos o fim do contrato?",
+    "expected_context": ["Art. 15", "Art. 16", "obrigacao legal"]
+  },
+  {
+    "question": "O que fazer se ocorrer vazamento de dados pessoais?",
+    "expected_context": ["Art. 48", "incidente", "risco"]
+  }
+]
