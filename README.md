@@ -9,7 +9,7 @@ Times de produto e engenharia tomam decisoes frequentes sobre CPF, logs, retenca
 ## Demo
 
 - URL publica da demo: `PREENCHER_APOS_DEPLOY`
-- Repositorio: `PREENCHER_APOS_GITHUB`
+- Repositorio: https://github.com/esleiu/lgpd-copilot
 - Video demo: `PREENCHER_APOS_GRAVACAO`
 
 ## Arquitetura
